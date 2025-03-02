@@ -10,7 +10,8 @@ This repository contains the implementation of two computer vision tasks:
 VR-counting-coins-and-Panorama/
 ├── countCoins.ipynb                  # Jupyter notebook for coin detection and counting
 ├── Image stitching panorama.ipynb    # Jupyter notebook for stitching two images
-├── Multiple image.ipynb              # Jupyter notebook for stitching multiple images
+├── Multiple image stitching.ipynb    # Jupyter notebook for stitching multiple images
+├── Report.pdf                        # Comprehensive report of the tasks performed
 └── README.md                         # This file
 ```
 
